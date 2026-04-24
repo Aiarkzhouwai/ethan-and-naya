@@ -1,0 +1,11 @@
+# Private source material
+chatgpt-*.txt
+小说设定库/
+展示版/
+
+# Local/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
